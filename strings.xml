@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">MusicPlayerApp</string>
+
+    <!--  -->
+    <string name="category_DanceHall" >Dancehall</string>
+    <string name="category_Highlife">Highlife</string>
+    <string name="category_Hiplife">Hiplife</string>
+    <string name="category_Azonto">Azonto</string>
+    <string name="category_afrobeats">Afrobeats</string>
+
+
+    <!--AfroBeats Fragment vocab-->
+    <string name="afrobeats_runtown">Runtown</string>
+    <string name="afrobeats_mad_over_you">Mad Over You</string>
+    <string name="afrobeats_maleek_berry">Maleek Berry</string>
+    <string name="afrobeats_kontrol">Kontrol</string>
+    <string name="afrobeats_el">E.L</string>
+    <string name="afrobeats_obuu_mo">Obuu mo</string>
+    <string name="afrobeats_wiyaala">Wiyaala</string>
+    <string name="afrobeats_leno">Leno(This Place)</string>
+    <string name="afrobeats_yxng_bane">Yxng Bane</string>
+    <string name="afrobeats_rihanna">Rihanna</string>
+    <string name="afrobeats_davido">Davido</string>
+    <string name="afrobeats_aye">Aye</string>
+
+    <!--Azonto Fragment Vocab-->
+    <string name="azonto_fuse">Fuse ODG</string>
+    <string name="azonto_azonto">Azonto</string>
+    <string name="azonto_eazzy">Eazzy</string>
+    <string name="azonto_wengeze">Wengeze</string>
+    <string name="azonto_mr_eazi">Mr.Eazi</string>
+    <string name="azonto_leg_over">Leg Over</string>
+    <string name="azonto_gasmilla">Gasmilla</string>
+    <string name="azonto_telemo">Telemo</string>
+    <string name="azonto_dj_spinall">DJ Spinall</string>
+    <string name="azonto_ohema">Ohema</string>
+    <string name="azonto_sarkodia">Sarkodia</string>
+    <string name="azonto_u_go_kill_me">U Go Kill Me</string>
+    <string name="azonto_edem">Edem</string>
+    <string name="azonto_ghetto">Ghetto Arise</string>
+
+    <!--DanceHall Fragment Vocab-->
+    <string name="dancehall_kakai">Kakai</string>
+    <string name="dancehall_shatta_wale">Shatta Wale</string>
+    <string name="dancehall_go_higher">Go Higher</string>
+    <string name="dancehall_stonebwoy">Stonebwoy</string>
+    <string name="dancehall_nice">Everything Nice</string>
+    <string name="dancehall_popcaan">Popcaan</string>
+    <string name="dancehall_gaoue">Premier Gaoue</string>
+    <string name="dancehall_magic">Magic System</string>
+    <string name="dancehall_alkaline">"Alkaline</string>
+    <string name="dancehall_atm">ATM</string>
+    <string name="dancehall_believe">Can\'t Believe</string>
+    <string name="dancehall_kranium">Kranium</string>
+
+    <!--HighLife Fragment Vocab-->
+    <string name="highlife_dadday_lumba">Dadday Lumba</string>
+    <string name="highlife_dangerous">Dangerous</string>
+    <string name="highlife_adane">Adane Best</string>
+    <string name="highlife_maafio">Maafio</string>
+    <string name="highlife_dede">Amakye Dede</string>
+    <string name="highlife_iron_boy">Iron Boy</string>
+    <string name="highlife_jerry">Tom and Jerry Aware</string>
+    <string name="highlife_antwi">Kojo Antwi</string>
+    <string name="highlife_home">Welcome Home</string>
+    <string name="highlife_osibisa">Osibisa</string>
+
+    <!--HipLife Fragment Vocab-->
+    <string name="hiplife_ebony">Ebony</string>
+    <string name="hiplife_fada">Date Ur Fada</string>
+    <string name="hiplife_brother">Brother Brother</string>
+    <string name="hiplife_bisa_kdei">Bisa Kdei</string>
+    <string name="hiplife_mbrantie">Mbrantie</string>
+    <string name="hiplife_gunu">Sherifa Gunu</string>
+    <string name="hiplife_woa">Me Ne Woa</string>
+    <string name="hiplife_manifest">Manifest</string>
+    <string name="hiplife_obour">Obour</string>
+    <string name="hiplife_obour2">Obour</string>
+    <string name="hiplife_confession">Confession</string>
+    <string name="hiplife_kinaata">Kofi Kinaata</string>
+
+
+
+
+
+
+</resources>
